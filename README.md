@@ -1,2 +1,2 @@
 # dsconstable.github.io
-This project is a personal website. Currently under construction.
+Personal website. Thanks to https://github.com/danhammer for the inspiration.
